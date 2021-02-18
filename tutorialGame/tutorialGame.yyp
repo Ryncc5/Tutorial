@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_character","path":"sprites/spr_character/spr_character.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
